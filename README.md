@@ -1,1 +1,1 @@
-# CodSoft-task-3
+Tic-Tac-Toe is a classic two-player game where the objective is to form a horizontal, vertical, or diagonal line of three matching symbols (traditionally X or O) on a 3x3 grid. Players take turns placing their symbol on an empty spot, and the game ends when one player achieves the objective or the board is filled, resulting in a draw. It's a simple yet engaging game often used for teaching basic game development concepts.
